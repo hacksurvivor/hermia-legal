@@ -47,6 +47,7 @@ what we collect, why, who processes it for us, and your choices.
 - We do not sell your personal information or share it for cross-context behavioral advertising.
 
 ## 4. Who processes it for us
+
 | Provider | What for | Data |
 |---|---|---|
 | WorkOS | Sign-in (AuthKit) | Email or Apple sign-in identifier, sign-in sessions |
