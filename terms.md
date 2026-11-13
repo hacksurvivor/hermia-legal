@@ -1,11 +1,12 @@
 ---
 title: Hermia Terms of Service
+heading: Terms of Service
+layout: default
 permalink: /terms
 ---
 
-# Hermia Terms of Service
 
-Last updated: 13 November 2026
+<p class="updated">Last updated: 13 November 2026</p>
 
 ## 1. The service
 Hermia translates phone calls live. When you decline or miss a call, your carrier forwards it to our
@@ -52,7 +53,7 @@ We aim for reliable service but don't guarantee it will be uninterrupted or erro
 late or go untranslated because of networks, carriers or providers.
 
 ## 9. Liability
-To the extent the law allows, Sergiu Moloman isn't liable for indirect or consequential losses, or for losses caused
+To the extent the law allows, Sergey Moloman isn't liable for indirect or consequential losses, or for losses caused
 by translation errors, and our total liability is limited to what you paid us in the 12 months before the claim.
 
 ## 10. Ending
@@ -63,4 +64,4 @@ account. We may end or suspend the service for breach of these terms.
 These terms are governed by the laws of the Republic of Moldova.
 
 ## 12. Contact
-Sergiu Moloman, [hermia@moloman.dev](mailto:hermia@moloman.dev).
+Sergey Moloman, [hermia@moloman.dev](mailto:hermia@moloman.dev).

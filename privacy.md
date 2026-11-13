@@ -1,11 +1,12 @@
 ---
 title: Hermia Privacy Policy
+heading: Privacy Policy
+layout: default
 permalink: /privacy
 ---
 
-# Hermia Privacy Policy
 
-Last updated: 13 November 2026
+<p class="updated">Last updated: 13 November 2026</p>
 
 Hermia ("we") translates phone calls live between you and the people who call you. This policy explains
 what we collect, why, who processes it for us, and your choices.
@@ -79,4 +80,4 @@ Hermia is not for children under 13 (or under 16 where local law sets that age),
 We'll post changes here and, for material ones, tell you in the app.
 
 ## 10. Contact
-Sergiu Moloman, Republic of Moldova, [hermia@moloman.dev](mailto:hermia@moloman.dev).
+Sergey Moloman, Republic of Moldova, [hermia@moloman.dev](mailto:hermia@moloman.dev).
